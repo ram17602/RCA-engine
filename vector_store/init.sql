@@ -1,0 +1,8 @@
+CREATE EXTENSION IF NOT EXISTS vector;
+
+
+CREATE TABLE incidents (
+id SERIAL PRIMARY KEY,
+description TEXT,
+embedding VECTOR(768)
+);

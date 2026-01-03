@@ -1,0 +1,10 @@
+kafka-python
+redis
+psycopg2-binary
+sentence-transformers
+torch
+fastapi
+pyjwt
+numpy
+kubernetes
+gitpython

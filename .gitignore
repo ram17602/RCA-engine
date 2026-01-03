@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Go
+*.exe
+*.out
+go.sum
+
+# Docker
+*.log
+
+# ML
+model.pt
+
+# OS
+.DS_Store
+Thumbs.db
